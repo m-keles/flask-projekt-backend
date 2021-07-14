@@ -9,8 +9,8 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///blog.db'
 app.config['MAIL_SERVER'] = 'smtp.gmail.com'
 app.config['MAIL_PORT'] = 465
 app.config['MAIL_USE_SSL'] = True
-app.config['MAIL_USERNAME'] = 'mehmetkeles.email@gmail.com'
-app.config['MAIL_PASSWORD'] = '737373nN.'
+app.config['MAIL_USERNAME'] = 'napole10bonaparte@gmail.com'
+app.config['MAIL_PASSWORD'] = '5t6g7b8y9h'
 
 
 
